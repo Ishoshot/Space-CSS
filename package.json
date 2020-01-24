@@ -1,0 +1,26 @@
+{
+  "name": "@space-css/space-css",
+  "version": "1.0.0",
+  "description": "Introducing a Highly Responsive Modern Trend Spacing CSS Framework.",
+  "main": "space.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishoshot/Space-CSS.git"
+  },
+  "keywords": [
+    "CSS",
+    "Space",
+    "Css",
+    "CSS",
+    "SPACING"
+  ],
+  "author": "Oluwatobi Ishola, Folorunso Adesanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ishoshot/Space-CSS/issues"
+  },
+  "homepage": "https://github.com/Ishoshot/Space-CSS#readme"
+}
