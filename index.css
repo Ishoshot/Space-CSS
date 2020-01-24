@@ -692,14 +692,7 @@ By Oluwatobi Ishola and Folorunso Adesanya
 
 /* MEDIA QUERY FOR [SM] SCREENS START*/
 
-@media only screen and (max-width: 600px) {
-  .p-sm-5 {
-    padding: 5rem !important;
-  }
-}
-
-
-@media only screen and (min-width: 500px) {
+@media (min-width: 576px) {
   .m-sm-0 {
     margin: 0 !important;
   }
@@ -1433,7 +1426,7 @@ By Oluwatobi Ishola and Folorunso Adesanya
 
 /* MEDIA QUERY FOR [MD] SCREENS*/
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 /* MARGIN [MD] STARTS HERE */
     .m-md-0 {
       margin: 0 !important;
