@@ -23,8 +23,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-1. Oluwatobi Ishola
-[Twitter](http://twitter.com/mroluwatobby)
+1. [Oluwatobi Ishola](http://twitter.com/mroluwatobby)
 
-2. Folorunso Adesanya
-[Twitter](http://twitter.com/devfolorunso)
+2. [Folorunso Adesanya](http://twitter.com/devfolorunso)
