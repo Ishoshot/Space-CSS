@@ -1,6 +1,7 @@
-## SPACE CSS
-
+## @space-css/space-css
 Space CSS is a highly responsive mordern trend spacing css framework.
+
+![npm (scoped)](https://img.shields.io/npm/v/@space-css/space-css)
 
 ## Usage
 
