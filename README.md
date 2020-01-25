@@ -49,10 +49,9 @@ All classes are composed of some simple parts.
 ### 1.Property prefix
 
 ```css
-m       =   margin
-___________________
+m   =   margin
 p   =    padding
-
+sp  = space
 ```
 All properties have !important as you should only add those classes, if you definitely want a specific behavior.
 
