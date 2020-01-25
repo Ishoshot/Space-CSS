@@ -19,7 +19,9 @@ Space CSS is a highly responsive mordern trend spacing library for margins, padd
 ## Install with npm
 
 
-`npm install @space-css/space-css@1.0.0`
+```npm
+npm install @space-css/space-css@1.0.0
+```
 
 These elements have no padding:
 
@@ -40,6 +42,18 @@ This navigation is centered:
 </body>
 ```
 
+## How it works
+
+All classes are composed of some simple parts.
+
+# 1.Property prefix
+
+```css
+m       =   margin
+___________________
+p   =    padding
+
+```
 All properties have !important as you should only add those classes, if you definitely want a specific behavior.
 
 Sizes are defined in:
