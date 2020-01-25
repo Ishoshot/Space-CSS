@@ -141,51 +141,51 @@ By Oluwatobi Ishola and Folorunso Adesanya
 }
 
 .sp-m-1 {
-  margin: 0sp-25rem !important;
+  margin: 0.25rem !important;
 }
 
 .sp-mt-1,
 .sp-my-1 {
-  margin-top: 0sp-25rem !important;
+  margin-top: 0.25rem !important;
 }
 
 .sp-mr-1,
 .sp-mx-1 {
-  margin-right: 0sp-25rem !important;
+  margin-right: 0.25rem !important;
 }
 
 .sp-mb-1,
 .sp-my-1 {
-  margin-bottom: 0sp-25rem !important;
+  margin-bottom: 0.25rem !important;
 }
 
 .sp-ml-1,
 .sp-mx-1 {
-  margin-left: 0sp-25rem !important;
+  margin-left: 0.25rem !important;
 }
 
 .sp-m-2 {
-  margin: 0sp-5rem !important;
+  margin: 0.5rem !important;
 }
 
 .sp-mt-2,
 .sp-my-2 {
-  margin-top: 0sp-5rem !important;
+  margin-top: 0.5rem !important;
 }
 
 .sp-mr-2,
 .sp-mx-2 {
-  margin-right: 0sp-5rem !important;
+  margin-right: 0.5rem !important;
 }
 
 .sp-mb-2,
 .sp-my-2 {
-  margin-bottom: 0sp-5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .sp-ml-2,
 .sp-mx-2 {
-  margin-left: 0sp-5rem !important;
+  margin-left: 0.5rem !important;
 }
 
 .sp-m-3 {
@@ -213,27 +213,27 @@ By Oluwatobi Ishola and Folorunso Adesanya
 }
 
 .sp-m-4 {
-  margin: 1sp-5rem !important;
+  margin: 1.5rem !important;
 }
 
 .sp-mt-4,
 .sp-my-4 {
-  margin-top: 1sp-5rem !important;
+  margin-top: 1.5rem !important;
 }
 
 .sp-mr-4,
 .sp-mx-4 {
-  margin-right: 1sp-5rem !important;
+  margin-right: 1.5rem !important;
 }
 
 .sp-mb-4,
 .sp-my-4 {
-  margin-bottom: 1sp-5rem !important;
+  margin-bottom: 1.5rem !important;
 }
 
 .sp-ml-4,
 .sp-mx-4 {
-  margin-left: 1sp-5rem !important;
+  margin-left: 1.5rem !important;
 }
 
 .sp-m-5 {
@@ -433,51 +433,51 @@ By Oluwatobi Ishola and Folorunso Adesanya
 }
 
 .sp-p-1 {
-  padding: 0sp-25rem !important;
+  padding: 0.25rem !important;
 }
 
 .sp-pt-1,
 .sp-py-1 {
-  padding-top: 0sp-25rem !important;
+  padding-top: 0.25rem !important;
 }
 
 .sp-pr-1,
 .sp-px-1 {
-  padding-right: 0sp-25rem !important;
+  padding-right: 0.25rem !important;
 }
 
 .sp-pb-1,
 .sp-py-1 {
-  padding-bottom: 0sp-25rem !important;
+  padding-bottom: 0.25rem !important;
 }
 
 .sp-pl-1,
 .sp-px-1 {
-  padding-left: 0sp-25rem !important;
+  padding-left: 0.25rem !important;
 }
 
 .sp-p-2 {
-  padding: 0sp-5rem !important;
+  padding: 0.5rem !important;
 }
 
 .sp-pt-2,
 .sp-py-2 {
-  padding-top: 0sp-5rem !important;
+  padding-top: 0.5rem !important;
 }
 
 .sp-pr-2,
 .sp-px-2 {
-  padding-right: 0sp-5rem !important;
+  padding-right: 0.5rem !important;
 }
 
 .sp-pb-2,
 .sp-py-2 {
-  padding-bottom: 0sp-5rem !important;
+  padding-bottom: 0.5rem !important;
 }
 
 .sp-pl-2,
 .sp-px-2 {
-  padding-left: 0sp-5rem !important;
+  padding-left: 0.5rem !important;
 }
 
 .sp-p-3 {
@@ -505,27 +505,27 @@ By Oluwatobi Ishola and Folorunso Adesanya
 }
 
 .sp-p-4 {
-  padding: 1sp-5rem !important;
+  padding: 1.5rem !important;
 }
 
 .sp-pt-4,
 .sp-py-4 {
-  padding-top: 1sp-5rem !important;
+  padding-top: 1.5rem !important;
 }
 
 .sp-pr-4,
 .sp-px-4 {
-  padding-right: 1sp-5rem !important;
+  padding-right: 1.5rem !important;
 }
 
 .sp-pb-4,
 .sp-py-4 {
-  padding-bottom: 1sp-5rem !important;
+  padding-bottom: 1.5rem !important;
 }
 
 .sp-pl-4,
 .sp-px-4 {
-  padding-left: 1sp-5rem !important;
+  padding-left: 1.5rem !important;
 }
 
 .sp-p-5 {
@@ -697,42 +697,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 0 !important;
   }
   .sp-m-sm-1 {
-    margin: 0sp-25rem !important;
+    margin: 0.25rem !important;
   }
   .sp-mt-sm-1,
   .sp-my-sm-1 {
-    margin-top: 0sp-25rem !important;
+    margin-top: 0.25rem !important;
   }
   .sp-mr-sm-1,
   .sp-mx-sm-1 {
-    margin-right: 0sp-25rem !important;
+    margin-right: 0.25rem !important;
   }
   .sp-mb-sm-1,
   .sp-my-sm-1 {
-    margin-bottom: 0sp-25rem !important;
+    margin-bottom: 0.25rem !important;
   }
   .sp-ml-sm-1,
   .sp-mx-sm-1 {
-    margin-left: 0sp-25rem !important;
+    margin-left: 0.25rem !important;
   }
   .sp-m-sm-2 {
-    margin: 0sp-5rem !important;
+    margin: 0.5rem !important;
   }
   .sp-mt-sm-2,
   .sp-my-sm-2 {
-    margin-top: 0sp-5rem !important;
+    margin-top: 0.5rem !important;
   }
   .sp-mr-sm-2,
   .sp-mx-sm-2 {
-    margin-right: 0sp-5rem !important;
+    margin-right: 0.5rem !important;
   }
   .sp-mb-sm-2,
   .sp-my-sm-2 {
-    margin-bottom: 0sp-5rem !important;
+    margin-bottom: 0.5rem !important;
   }
   .sp-ml-sm-2,
   .sp-mx-sm-2 {
-    margin-left: 0sp-5rem !important;
+    margin-left: 0.5rem !important;
   }
   .sp-m-sm-3 {
     margin: 1rem !important;
@@ -754,23 +754,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 1rem !important;
   }
   .sp-m-sm-4 {
-    margin: 1sp-5rem !important;
+    margin: 1.5rem !important;
   }
   .sp-mt-sm-4,
   .sp-my-sm-4 {
-    margin-top: 1sp-5rem !important;
+    margin-top: 1.5rem !important;
   }
   .sp-mr-sm-4,
   .sp-mx-sm-4 {
-    margin-right: 1sp-5rem !important;
+    margin-right: 1.5rem !important;
   }
   .sp-mb-sm-4,
   .sp-my-sm-4 {
-    margin-bottom: 1sp-5rem !important;
+    margin-bottom: 1.5rem !important;
   }
   .sp-ml-sm-4,
   .sp-mx-sm-4 {
-    margin-left: 1sp-5rem !important;
+    margin-left: 1.5rem !important;
   }
   .sp-m-sm-5 {
     margin: 3rem !important;
@@ -909,42 +909,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 0 !important;
   }
   .sp-p-sm-1 {
-    padding: 0sp-25rem !important;
+    padding: 0.25rem !important;
   }
   .sp-pt-sm-1,
   .sp-py-sm-1 {
-    padding-top: 0sp-25rem !important;
+    padding-top: 0.25rem !important;
   }
   .sp-pr-sm-1,
   .sp-px-sm-1 {
-    padding-right: 0sp-25rem !important;
+    padding-right: 0.25rem !important;
   }
   .sp-pb-sm-1,
   .sp-py-sm-1 {
-    padding-bottom: 0sp-25rem !important;
+    padding-bottom: 0.25rem !important;
   }
   .sp-pl-sm-1,
   .sp-px-sm-1 {
-    padding-left: 0sp-25rem !important;
+    padding-left: 0.25rem !important;
   }
   .sp-p-sm-2 {
-    padding: 0sp-5rem !important;
+    padding: 0.5rem !important;
   }
   .sp-pt-sm-2,
   .sp-py-sm-2 {
-    padding-top: 0sp-5rem !important;
+    padding-top: 0.5rem !important;
   }
   .sp-pr-sm-2,
   .sp-px-sm-2 {
-    padding-right: 0sp-5rem !important;
+    padding-right: 0.5rem !important;
   }
   .sp-pb-sm-2,
   .sp-py-sm-2 {
-    padding-bottom: 0sp-5rem !important;
+    padding-bottom: 0.5rem !important;
   }
   .sp-pl-sm-2,
   .sp-px-sm-2 {
-    padding-left: 0sp-5rem !important;
+    padding-left: 0.5rem !important;
   }
   .sp-p-sm-3 {
     padding: 1rem !important;
@@ -966,23 +966,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 1rem !important;
   }
   .sp-p-sm-4 {
-    padding: 1sp-5rem !important;
+    padding: 1.5rem !important;
   }
   .sp-pt-sm-4,
   .sp-py-sm-4 {
-    padding-top: 1sp-5rem !important;
+    padding-top: 1.5rem !important;
   }
   .sp-pr-sm-4,
   .sp-px-sm-4 {
-    padding-right: 1sp-5rem !important;
+    padding-right: 1.5rem !important;
   }
   .sp-pb-sm-4,
   .sp-py-sm-4 {
-    padding-bottom: 1sp-5rem !important;
+    padding-bottom: 1.5rem !important;
   }
   .sp-pl-sm-4,
   .sp-px-sm-4 {
-    padding-left: 1sp-5rem !important;
+    padding-left: 1.5rem !important;
   }
   .sp-p-sm-5 {
     padding: 3rem !important;
@@ -1007,42 +1007,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
   /* NEGATIVE MARGIN */
 
   .sp-m-sm-n1 {
-    margin: -0sp-25rem !important;
+    margin: -0.25rem !important;
   }
   .sp-mt-sm-n1,
   .sp-my-sm-n1 {
-    margin-top: -0sp-25rem !important;
+    margin-top: -0.25rem !important;
   }
   .sp-mr-sm-n1,
   .sp-mx-sm-n1 {
-    margin-right: -0sp-25rem !important;
+    margin-right: -0.25rem !important;
   }
   .sp-mb-sm-n1,
   .sp-my-sm-n1 {
-    margin-bottom: -0sp-25rem !important;
+    margin-bottom: -0.25rem !important;
   }
   .sp-ml-sm-n1,
   .sp-mx-sm-n1 {
-    margin-left: -0sp-25rem !important;
+    margin-left: -0.25rem !important;
   }
   .sp-m-sm-n2 {
-    margin: -0sp-5rem !important;
+    margin: -0.5rem !important;
   }
   .sp-mt-sm-n2,
   .sp-my-sm-n2 {
-    margin-top: -0sp-5rem !important;
+    margin-top: -0.5rem !important;
   }
   .sp-mr-sm-n2,
   .sp-mx-sm-n2 {
-    margin-right: -0sp-5rem !important;
+    margin-right: -0.5rem !important;
   }
   .sp-mb-sm-n2,
   .sp-my-sm-n2 {
-    margin-bottom: -0sp-5rem !important;
+    margin-bottom: -0.5rem !important;
   }
   .sp-ml-sm-n2,
   .sp-mx-sm-n2 {
-    margin-left: -0sp-5rem !important;
+    margin-left: -0.5rem !important;
   }
   .sp-m-sm-n3 {
     margin: -1rem !important;
@@ -1064,23 +1064,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: -1rem !important;
   }
   .sp-m-sm-n4 {
-    margin: -1sp-5rem !important;
+    margin: -1.5rem !important;
   }
   .sp-mt-sm-n4,
   .sp-my-sm-n4 {
-    margin-top: -1sp-5rem !important;
+    margin-top: -1.5rem !important;
   }
   .sp-mr-sm-n4,
   .sp-mx-sm-n4 {
-    margin-right: -1sp-5rem !important;
+    margin-right: -1.5rem !important;
   }
   .sp-mb-sm-n4,
   .sp-my-sm-n4 {
-    margin-bottom: -1sp-5rem !important;
+    margin-bottom: -1.5rem !important;
   }
   .sp-ml-sm-n4,
   .sp-mx-sm-n4 {
-    margin-left: -1sp-5rem !important;
+    margin-left: -1.5rem !important;
   }
   .sp-m-sm-n5 {
     margin: -3rem !important;
@@ -1131,51 +1131,51 @@ By Oluwatobi Ishola and Folorunso Adesanya
 
 /* MARGIN NEGATIVE STARTS */
 .sp-m-n1 {
-  margin: -0sp-25rem !important;
+  margin: -0.25rem !important;
 }
 
 .sp-mt-n1,
 .sp-my-n1 {
-  margin-top: -0sp-25rem !important;
+  margin-top: -0.25rem !important;
 }
 
 .sp-mr-n1,
 .sp-mx-n1 {
-  margin-right: -0sp-25rem !important;
+  margin-right: -0.25rem !important;
 }
 
 .sp-mb-n1,
 .sp-my-n1 {
-  margin-bottom: -0sp-25rem !important;
+  margin-bottom: -0.25rem !important;
 }
 
 .sp-ml-n1,
 .sp-mx-n1 {
-  margin-left: -0sp-25rem !important;
+  margin-left: -0.25rem !important;
 }
 
 .sp-m-n2 {
-  margin: -0sp-5rem !important;
+  margin: -0.5rem !important;
 }
 
 .sp-mt-n2,
 .sp-my-n2 {
-  margin-top: -0sp-5rem !important;
+  margin-top: -0.5rem !important;
 }
 
 .sp-mr-n2,
 .sp-mx-n2 {
-  margin-right: -0sp-5rem !important;
+  margin-right: -0.5rem !important;
 }
 
 .sp-mb-n2,
 .sp-my-n2 {
-  margin-bottom: -0sp-5rem !important;
+  margin-bottom: -0.5rem !important;
 }
 
 .sp-ml-n2,
 .sp-mx-n2 {
-  margin-left: -0sp-5rem !important;
+  margin-left: -0.5rem !important;
 }
 
 .sp-m-n3 {
@@ -1203,27 +1203,27 @@ By Oluwatobi Ishola and Folorunso Adesanya
 }
 
 .sp-m-n4 {
-  margin: -1sp-5rem !important;
+  margin: -1.5rem !important;
 }
 
 .sp-mt-n4,
 .sp-my-n4 {
-  margin-top: -1sp-5rem !important;
+  margin-top: -1.5rem !important;
 }
 
 .sp-mr-n4,
 .sp-mx-n4 {
-  margin-right: -1sp-5rem !important;
+  margin-right: -1.5rem !important;
 }
 
 .sp-mb-n4,
 .sp-my-n4 {
-  margin-bottom: -1sp-5rem !important;
+  margin-bottom: -1.5rem !important;
 }
 
 .sp-ml-n4,
 .sp-mx-n4 {
-  margin-left: -1sp-5rem !important;
+  margin-left: -1.5rem !important;
 }
 
 .sp-m-n5 {
@@ -1422,42 +1422,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 0 !important;
   }
   .sp-m-md-1 {
-    margin: 0sp-25rem !important;
+    margin: 0.25rem !important;
   }
   .sp-mt-md-1,
   .sp-my-md-1 {
-    margin-top: 0sp-25rem !important;
+    margin-top: 0.25rem !important;
   }
   .sp-mr-md-1,
   .sp-mx-md-1 {
-    margin-right: 0sp-25rem !important;
+    margin-right: 0.25rem !important;
   }
   .sp-mb-md-1,
   .sp-my-md-1 {
-    margin-bottom: 0sp-25rem !important;
+    margin-bottom: 0.25rem !important;
   }
   .sp-ml-md-1,
   .sp-mx-md-1 {
-    margin-left: 0sp-25rem !important;
+    margin-left: 0.25rem !important;
   }
   .sp-m-md-2 {
-    margin: 0sp-5rem !important;
+    margin: 0.5rem !important;
   }
   .sp-mt-md-2,
   .sp-my-md-2 {
-    margin-top: 0sp-5rem !important;
+    margin-top: 0.5rem !important;
   }
   .sp-mr-md-2,
   .sp-mx-md-2 {
-    margin-right: 0sp-5rem !important;
+    margin-right: 0.5rem !important;
   }
   .sp-mb-md-2,
   .sp-my-md-2 {
-    margin-bottom: 0sp-5rem !important;
+    margin-bottom: 0.5rem !important;
   }
   .sp-ml-md-2,
   .sp-mx-md-2 {
-    margin-left: 0sp-5rem !important;
+    margin-left: 0.5rem !important;
   }
   .sp-m-md-3 {
     margin: 1rem !important;
@@ -1479,23 +1479,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 1rem !important;
   }
   .sp-m-md-4 {
-    margin: 1sp-5rem !important;
+    margin: 1.5rem !important;
   }
   .sp-mt-md-4,
   .sp-my-md-4 {
-    margin-top: 1sp-5rem !important;
+    margin-top: 1.5rem !important;
   }
   .sp-mr-md-4,
   .sp-mx-md-4 {
-    margin-right: 1sp-5rem !important;
+    margin-right: 1.5rem !important;
   }
   .sp-mb-md-4,
   .sp-my-md-4 {
-    margin-bottom: 1sp-5rem !important;
+    margin-bottom: 1.5rem !important;
   }
   .sp-ml-md-4,
   .sp-mx-md-4 {
-    margin-left: 1sp-5rem !important;
+    margin-left: 1.5rem !important;
   }
   .sp-m-md-5 {
     margin: 3rem !important;
@@ -1659,42 +1659,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 0 !important;
   }
   .sp-p-md-1 {
-    padding: 0sp-25rem !important;
+    padding: 0.25rem !important;
   }
   .sp-pt-md-1,
   .sp-py-md-1 {
-    padding-top: 0sp-25rem !important;
+    padding-top: 0.25rem !important;
   }
   .sp-pr-md-1,
   .sp-px-md-1 {
-    padding-right: 0sp-25rem !important;
+    padding-right: 0.25rem !important;
   }
   .sp-pb-md-1,
   .sp-py-md-1 {
-    padding-bottom: 0sp-25rem !important;
+    padding-bottom: 0.25rem !important;
   }
   .sp-pl-md-1,
   .sp-px-md-1 {
-    padding-left: 0sp-25rem !important;
+    padding-left: 0.25rem !important;
   }
   .sp-p-md-2 {
-    padding: 0sp-5rem !important;
+    padding: 0.5rem !important;
   }
   .sp-pt-md-2,
   .sp-py-md-2 {
-    padding-top: 0sp-5rem !important;
+    padding-top: 0.5rem !important;
   }
   .sp-pr-md-2,
   .sp-px-md-2 {
-    padding-right: 0sp-5rem !important;
+    padding-right: 0.5rem !important;
   }
   .sp-pb-md-2,
   .sp-py-md-2 {
-    padding-bottom: 0sp-5rem !important;
+    padding-bottom: 0.5rem !important;
   }
   .sp-pl-md-2,
   .sp-px-md-2 {
-    padding-left: 0sp-5rem !important;
+    padding-left: 0.5rem !important;
   }
   .sp-p-md-3 {
     padding: 1rem !important;
@@ -1716,23 +1716,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 1rem !important;
   }
   .sp-p-md-4 {
-    padding: 1sp-5rem !important;
+    padding: 1.5rem !important;
   }
   .sp-pt-md-4,
   .sp-py-md-4 {
-    padding-top: 1sp-5rem !important;
+    padding-top: 1.5rem !important;
   }
   .sp-pr-md-4,
   .sp-px-md-4 {
-    padding-right: 1sp-5rem !important;
+    padding-right: 1.5rem !important;
   }
   .sp-pb-md-4,
   .sp-py-md-4 {
-    padding-bottom: 1sp-5rem !important;
+    padding-bottom: 1.5rem !important;
   }
   .sp-pl-md-4,
   .sp-px-md-4 {
-    padding-left: 1sp-5rem !important;
+    padding-left: 1.5rem !important;
   }
   .sp-p-md-5 {
     padding: 3rem !important;
@@ -1757,42 +1757,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
 
   /* MARGIN [MD] NEGATIVE  STARTS*/
   .sp-m-md-n1 {
-    margin: -0sp-25rem !important;
+    margin: -0.25rem !important;
   }
   .sp-mt-md-n1,
   .sp-my-md-n1 {
-    margin-top: -0sp-25rem !important;
+    margin-top: -0.25rem !important;
   }
   .sp-mr-md-n1,
   .sp-mx-md-n1 {
-    margin-right: -0sp-25rem !important;
+    margin-right: -0.25rem !important;
   }
   .sp-mb-md-n1,
   .sp-my-md-n1 {
-    margin-bottom: -0sp-25rem !important;
+    margin-bottom: -0.25rem !important;
   }
   .sp-ml-md-n1,
   .sp-mx-md-n1 {
-    margin-left: -0sp-25rem !important;
+    margin-left: -0.25rem !important;
   }
   .sp-m-md-n2 {
-    margin: -0sp-5rem !important;
+    margin: -0.5rem !important;
   }
   .sp-mt-md-n2,
   .sp-my-md-n2 {
-    margin-top: -0sp-5rem !important;
+    margin-top: -0.5rem !important;
   }
   .sp-mr-md-n2,
   .sp-mx-md-n2 {
-    margin-right: -0sp-5rem !important;
+    margin-right: -0.5rem !important;
   }
   .sp-mb-md-n2,
   .sp-my-md-n2 {
-    margin-bottom: -0sp-5rem !important;
+    margin-bottom: -0.5rem !important;
   }
   .sp-ml-md-n2,
   .sp-mx-md-n2 {
-    margin-left: -0sp-5rem !important;
+    margin-left: -0.5rem !important;
   }
   .sp-m-md-n3 {
     margin: -1rem !important;
@@ -1814,23 +1814,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: -1rem !important;
   }
   .sp-m-md-n4 {
-    margin: -1sp-5rem !important;
+    margin: -1.5rem !important;
   }
   .sp-mt-md-n4,
   .sp-my-md-n4 {
-    margin-top: -1sp-5rem !important;
+    margin-top: -1.5rem !important;
   }
   .sp-mr-md-n4,
   .sp-mx-md-n4 {
-    margin-right: -1sp-5rem !important;
+    margin-right: -1.5rem !important;
   }
   .sp-mb-md-n4,
   .sp-my-md-n4 {
-    margin-bottom: -1sp-5rem !important;
+    margin-bottom: -1.5rem !important;
   }
   .sp-ml-md-n4,
   .sp-mx-md-n4 {
-    margin-left: -1sp-5rem !important;
+    margin-left: -1.5rem !important;
   }
   .sp-m-md-n5 {
     margin: -3rem !important;
@@ -1899,42 +1899,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 0 !important;
   }
   .sp-m-lg-1 {
-    margin: 0sp-25rem !important;
+    margin: 0.25rem !important;
   }
   .sp-mt-lg-1,
   .sp-my-lg-1 {
-    margin-top: 0sp-25rem !important;
+    margin-top: 0.25rem !important;
   }
   .sp-mr-lg-1,
   .sp-mx-lg-1 {
-    margin-right: 0sp-25rem !important;
+    margin-right: 0.25rem !important;
   }
   .sp-mb-lg-1,
   .sp-my-lg-1 {
-    margin-bottom: 0sp-25rem !important;
+    margin-bottom: 0.25rem !important;
   }
   .sp-ml-lg-1,
   .sp-mx-lg-1 {
-    margin-left: 0sp-25rem !important;
+    margin-left: 0.25rem !important;
   }
   .sp-m-lg-2 {
-    margin: 0sp-5rem !important;
+    margin: 0.5rem !important;
   }
   .sp-mt-lg-2,
   .sp-my-lg-2 {
-    margin-top: 0sp-5rem !important;
+    margin-top: 0.5rem !important;
   }
   .sp-mr-lg-2,
   .sp-mx-lg-2 {
-    margin-right: 0sp-5rem !important;
+    margin-right: 0.5rem !important;
   }
   .sp-mb-lg-2,
   .sp-my-lg-2 {
-    margin-bottom: 0sp-5rem !important;
+    margin-bottom: 0.5rem !important;
   }
   .sp-ml-lg-2,
   .sp-mx-lg-2 {
-    margin-left: 0sp-5rem !important;
+    margin-left: 0.5rem !important;
   }
   .sp-m-lg-3 {
     margin: 1rem !important;
@@ -1956,23 +1956,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 1rem !important;
   }
   .sp-m-lg-4 {
-    margin: 1sp-5rem !important;
+    margin: 1.5rem !important;
   }
   .sp-mt-lg-4,
   .sp-my-lg-4 {
-    margin-top: 1sp-5rem !important;
+    margin-top: 1.5rem !important;
   }
   .sp-mr-lg-4,
   .sp-mx-lg-4 {
-    margin-right: 1sp-5rem !important;
+    margin-right: 1.5rem !important;
   }
   .sp-mb-lg-4,
   .sp-my-lg-4 {
-    margin-bottom: 1sp-5rem !important;
+    margin-bottom: 1.5rem !important;
   }
   .sp-ml-lg-4,
   .sp-mx-lg-4 {
-    margin-left: 1sp-5rem !important;
+    margin-left: 1.5rem !important;
   }
   .sp-m-lg-5 {
     margin: 3rem !important;
@@ -2111,42 +2111,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 0 !important;
   }
   .sp-p-lg-1 {
-    padding: 0sp-25rem !important;
+    padding: 0.25rem !important;
   }
   .sp-pt-lg-1,
   .sp-py-lg-1 {
-    padding-top: 0sp-25rem !important;
+    padding-top: 0.25rem !important;
   }
   .sp-pr-lg-1,
   .sp-px-lg-1 {
-    padding-right: 0sp-25rem !important;
+    padding-right: 0.25rem !important;
   }
   .sp-pb-lg-1,
   .sp-py-lg-1 {
-    padding-bottom: 0sp-25rem !important;
+    padding-bottom: 0.25rem !important;
   }
   .sp-pl-lg-1,
   .sp-px-lg-1 {
-    padding-left: 0sp-25rem !important;
+    padding-left: 0.25rem !important;
   }
   .sp-p-lg-2 {
-    padding: 0sp-5rem !important;
+    padding: 0.5rem !important;
   }
   .sp-pt-lg-2,
   .sp-py-lg-2 {
-    padding-top: 0sp-5rem !important;
+    padding-top: 0.5rem !important;
   }
   .sp-pr-lg-2,
   .sp-px-lg-2 {
-    padding-right: 0sp-5rem !important;
+    padding-right: 0.5rem !important;
   }
   .sp-pb-lg-2,
   .sp-py-lg-2 {
-    padding-bottom: 0sp-5rem !important;
+    padding-bottom: 0.5rem !important;
   }
   .sp-pl-lg-2,
   .sp-px-lg-2 {
-    padding-left: 0sp-5rem !important;
+    padding-left: 0.5rem !important;
   }
   .sp-p-lg-3 {
     padding: 1rem !important;
@@ -2168,23 +2168,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 1rem !important;
   }
   .sp-p-lg-4 {
-    padding: 1sp-5rem !important;
+    padding: 1.5rem !important;
   }
   .sp-pt-lg-4,
   .sp-py-lg-4 {
-    padding-top: 1sp-5rem !important;
+    padding-top: 1.5rem !important;
   }
   .sp-pr-lg-4,
   .sp-px-lg-4 {
-    padding-right: 1sp-5rem !important;
+    padding-right: 1.5rem !important;
   }
   .sp-pb-lg-4,
   .sp-py-lg-4 {
-    padding-bottom: 1sp-5rem !important;
+    padding-bottom: 1.5rem !important;
   }
   .sp-pl-lg-4,
   .sp-px-lg-4 {
-    padding-left: 1sp-5rem !important;
+    padding-left: 1.5rem !important;
   }
   .sp-p-lg-5 {
     padding: 3rem !important;
@@ -2209,42 +2209,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
   /* NEGATIVE MARGIN */
 
   .sp-m-lg-n1 {
-    margin: -0sp-25rem !important;
+    margin: -0.25rem !important;
   }
   .sp-mt-lg-n1,
   .sp-my-lg-n1 {
-    margin-top: -0sp-25rem !important;
+    margin-top: -0.25rem !important;
   }
   .sp-mr-lg-n1,
   .sp-mx-lg-n1 {
-    margin-right: -0sp-25rem !important;
+    margin-right: -0.25rem !important;
   }
   .sp-mb-lg-n1,
   .sp-my-lg-n1 {
-    margin-bottom: -0sp-25rem !important;
+    margin-bottom: -0.25rem !important;
   }
   .sp-ml-lg-n1,
   .sp-mx-lg-n1 {
-    margin-left: -0sp-25rem !important;
+    margin-left: -0.25rem !important;
   }
   .sp-m-lg-n2 {
-    margin: -0sp-5rem !important;
+    margin: -0.5rem !important;
   }
   .sp-mt-lg-n2,
   .sp-my-lg-n2 {
-    margin-top: -0sp-5rem !important;
+    margin-top: -0.5rem !important;
   }
   .sp-mr-lg-n2,
   .sp-mx-lg-n2 {
-    margin-right: -0sp-5rem !important;
+    margin-right: -0.5rem !important;
   }
   .sp-mb-lg-n2,
   .sp-my-lg-n2 {
-    margin-bottom: -0sp-5rem !important;
+    margin-bottom: -0.5rem !important;
   }
   .sp-ml-lg-n2,
   .sp-mx-lg-n2 {
-    margin-left: -0sp-5rem !important;
+    margin-left: -0.5rem !important;
   }
   .sp-m-lg-n3 {
     margin: -1rem !important;
@@ -2266,23 +2266,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: -1rem !important;
   }
   .sp-m-lg-n4 {
-    margin: -1sp-5rem !important;
+    margin: -1.5rem !important;
   }
   .sp-mt-lg-n4,
   .sp-my-lg-n4 {
-    margin-top: -1sp-5rem !important;
+    margin-top: -1.5rem !important;
   }
   .sp-mr-lg-n4,
   .sp-mx-lg-n4 {
-    margin-right: -1sp-5rem !important;
+    margin-right: -1.5rem !important;
   }
   .sp-mb-lg-n4,
   .sp-my-lg-n4 {
-    margin-bottom: -1sp-5rem !important;
+    margin-bottom: -1.5rem !important;
   }
   .sp-ml-lg-n4,
   .sp-mx-lg-n4 {
-    margin-left: -1sp-5rem !important;
+    margin-left: -1.5rem !important;
   }
   .sp-m-lg-n5 {
     margin: -3rem !important;
@@ -2348,42 +2348,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 0 !important;
   }
   .sp-m-xl-1 {
-    margin: 0sp-25rem !important;
+    margin: 0.25rem !important;
   }
   .sp-mt-xl-1,
   .sp-my-xl-1 {
-    margin-top: 0sp-25rem !important;
+    margin-top: 0.25rem !important;
   }
   .sp-mr-xl-1,
   .sp-mx-xl-1 {
-    margin-right: 0sp-25rem !important;
+    margin-right: 0.25rem !important;
   }
   .sp-mb-xl-1,
   .sp-my-xl-1 {
-    margin-bottom: 0sp-25rem !important;
+    margin-bottom: 0.25rem !important;
   }
   .sp-ml-xl-1,
   .sp-mx-xl-1 {
-    margin-left: 0sp-25rem !important;
+    margin-left: 0.25rem !important;
   }
   .sp-m-xl-2 {
-    margin: 0sp-5rem !important;
+    margin: 0.5rem !important;
   }
   .sp-mt-xl-2,
   .sp-my-xl-2 {
-    margin-top: 0sp-5rem !important;
+    margin-top: 0.5rem !important;
   }
   .sp-mr-xl-2,
   .sp-mx-xl-2 {
-    margin-right: 0sp-5rem !important;
+    margin-right: 0.5rem !important;
   }
   .sp-mb-xl-2,
   .sp-my-xl-2 {
-    margin-bottom: 0sp-5rem !important;
+    margin-bottom: 0.5rem !important;
   }
   .sp-ml-xl-2,
   .sp-mx-xl-2 {
-    margin-left: 0sp-5rem !important;
+    margin-left: 0.5rem !important;
   }
   .sp-m-xl-3 {
     margin: 1rem !important;
@@ -2405,23 +2405,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: 1rem !important;
   }
   .sp-m-xl-4 {
-    margin: 1sp-5rem !important;
+    margin: 1.5rem !important;
   }
   .sp-mt-xl-4,
   .sp-my-xl-4 {
-    margin-top: 1sp-5rem !important;
+    margin-top: 1.5rem !important;
   }
   .sp-mr-xl-4,
   .sp-mx-xl-4 {
-    margin-right: 1sp-5rem !important;
+    margin-right: 1.5rem !important;
   }
   .sp-mb-xl-4,
   .sp-my-xl-4 {
-    margin-bottom: 1sp-5rem !important;
+    margin-bottom: 1.5rem !important;
   }
   .sp-ml-xl-4,
   .sp-mx-xl-4 {
-    margin-left: 1sp-5rem !important;
+    margin-left: 1.5rem !important;
   }
   .sp-m-xl-5 {
     margin: 3rem !important;
@@ -2585,42 +2585,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 0 !important;
   }
   .sp-p-xl-1 {
-    padding: 0sp-25rem !important;
+    padding: 0.25rem !important;
   }
   .sp-pt-xl-1,
   .sp-py-xl-1 {
-    padding-top: 0sp-25rem !important;
+    padding-top: 0.25rem !important;
   }
   .sp-pr-xl-1,
   .sp-px-xl-1 {
-    padding-right: 0sp-25rem !important;
+    padding-right: 0.25rem !important;
   }
   .sp-pb-xl-1,
   .sp-py-xl-1 {
-    padding-bottom: 0sp-25rem !important;
+    padding-bottom: 0.25rem !important;
   }
   .sp-pl-xl-1,
   .sp-px-xl-1 {
-    padding-left: 0sp-25rem !important;
+    padding-left: 0.25rem !important;
   }
   .sp-p-xl-2 {
-    padding: 0sp-5rem !important;
+    padding: 0.5rem !important;
   }
   .sp-pt-xl-2,
   .sp-py-xl-2 {
-    padding-top: 0sp-5rem !important;
+    padding-top: 0.5rem !important;
   }
   .sp-pr-xl-2,
   .sp-px-xl-2 {
-    padding-right: 0sp-5rem !important;
+    padding-right: 0.5rem !important;
   }
   .sp-pb-xl-2,
   .sp-py-xl-2 {
-    padding-bottom: 0sp-5rem !important;
+    padding-bottom: 0.5rem !important;
   }
   .sp-pl-xl-2,
   .sp-px-xl-2 {
-    padding-left: 0sp-5rem !important;
+    padding-left: 0.5rem !important;
   }
   .sp-p-xl-3 {
     padding: 1rem !important;
@@ -2642,23 +2642,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     padding-left: 1rem !important;
   }
   .sp-p-xl-4 {
-    padding: 1sp-5rem !important;
+    padding: 1.5rem !important;
   }
   .sp-pt-xl-4,
   .sp-py-xl-4 {
-    padding-top: 1sp-5rem !important;
+    padding-top: 1.5rem !important;
   }
   .sp-pr-xl-4,
   .sp-px-xl-4 {
-    padding-right: 1sp-5rem !important;
+    padding-right: 1.5rem !important;
   }
   .sp-pb-xl-4,
   .sp-py-xl-4 {
-    padding-bottom: 1sp-5rem !important;
+    padding-bottom: 1.5rem !important;
   }
   .sp-pl-xl-4,
   .sp-px-xl-4 {
-    padding-left: 1sp-5rem !important;
+    padding-left: 1.5rem !important;
   }
   .sp-p-xl-5 {
     padding: 3rem !important;
@@ -2683,42 +2683,42 @@ By Oluwatobi Ishola and Folorunso Adesanya
 
   /* MARGIN [XL] NEGATIVE  STARTS*/
   .sp-m-xl-n1 {
-    margin: -0sp-25rem !important;
+    margin: -0.25rem !important;
   }
   .sp-mt-xl-n1,
   .sp-my-xl-n1 {
-    margin-top: -0sp-25rem !important;
+    margin-top: -0.25rem !important;
   }
   .sp-mr-xl-n1,
   .sp-mx-xl-n1 {
-    margin-right: -0sp-25rem !important;
+    margin-right: -0.25rem !important;
   }
   .sp-mb-xl-n1,
   .sp-my-xl-n1 {
-    margin-bottom: -0sp-25rem !important;
+    margin-bottom: -0.25rem !important;
   }
   .sp-ml-xl-n1,
   .sp-mx-xl-n1 {
-    margin-left: -0sp-25rem !important;
+    margin-left: -0.25rem !important;
   }
   .sp-m-xl-n2 {
-    margin: -0sp-5rem !important;
+    margin: -0.5rem !important;
   }
   .sp-mt-xl-n2,
   .sp-my-xl-n2 {
-    margin-top: -0sp-5rem !important;
+    margin-top: -0.5rem !important;
   }
   .sp-mr-xl-n2,
   .sp-mx-xl-n2 {
-    margin-right: -0sp-5rem !important;
+    margin-right: -0.5rem !important;
   }
   .sp-mb-xl-n2,
   .sp-my-xl-n2 {
-    margin-bottom: -0sp-5rem !important;
+    margin-bottom: -0.5rem !important;
   }
   .sp-ml-xl-n2,
   .sp-mx-xl-n2 {
-    margin-left: -0sp-5rem !important;
+    margin-left: -0.5rem !important;
   }
   .sp-m-xl-n3 {
     margin: -1rem !important;
@@ -2740,23 +2740,23 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: -1rem !important;
   }
   .sp-m-xl-n4 {
-    margin: -1sp-5rem !important;
+    margin: -1.5rem !important;
   }
   .sp-mt-xl-n4,
   .sp-my-xl-n4 {
-    margin-top: -1sp-5rem !important;
+    margin-top: -1.5rem !important;
   }
   .sp-mr-xl-n4,
   .sp-mx-xl-n4 {
-    margin-right: -1sp-5rem !important;
+    margin-right: -1.5rem !important;
   }
   .sp-mb-xl-n4,
   .sp-my-xl-n4 {
-    margin-bottom: -1sp-5rem !important;
+    margin-bottom: -1.5rem !important;
   }
   .sp-ml-xl-n4,
   .sp-mx-xl-n4 {
-    margin-left: -1sp-5rem !important;
+    margin-left: -1.5rem !important;
   }
   .sp-m-xl-n5 {
     margin: -3rem !important;
