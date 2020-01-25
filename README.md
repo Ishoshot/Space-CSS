@@ -2,16 +2,21 @@
 
 ![NPM](https://img.shields.io/npm/l/@space-css/space-css) ![npm (scoped)](https://img.shields.io/npm/v/@space-css/space-css)
 
-Space CSS is a highly responsive mordern trend spacing css framework.
+Space CSS is a highly responsive mordern trend spacing library for margins, paddings and more..
 
-
-## Usage
+## How it works
 
 ```css
 coming soon...
 ```
 
-## Examples
+## Install with npm
+
+```npm
+npm install @space-css/space-css@1.0.0
+```
+
+## Notes
 
 You must specify for all the screen sizes else it will take the single class you have specified as all,
 
@@ -26,7 +31,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
+
 1. [Oluwatobi Ishola](http://twitter.com/mroluwatobby)
 
 2. [Folorunso Adesanya](http://twitter.com/devfolorunso)
-
