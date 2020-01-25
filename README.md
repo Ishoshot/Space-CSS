@@ -111,7 +111,7 @@ mw: max-width
 
 ```
 
-### MARGIN CLASSES
+### Margin Classes
 
 #### Margin Classes With Range Of 0-10
 
@@ -344,8 +344,127 @@ mw: max-width
 .sp-pl-   (0-10)
 .sp-px-   (0-10)
 ```
+### Padding Classes For {SM}  @media (min-width: 576px) {} screens  With Range Of 0-5
+
+```css
+.sp-p-sm    (0-5) 
+.sp-pt-sm   (0-5)
+.sp-py-sm   (0-5)
+.sp-pr-sm   (0-5)
+.sp-px-sm   (0-5)
+.sp-pb-sm   (0-5)
+.sp-py-sm   (0-5)
+.sp-pl-sm   (0-5)
+.sp-px-sm   (0-5)
+```
 
 
+#### Padding AUTO Class For {SM}  @media (min-width: 576px) {} screens
+
+```css
+.sp-p-sm-auto
+.sp-pt-sm-auto
+.sp-py-sm-auto
+.sp-pr-sm-auto
+.sp-px-sm-auto
+.sp-pb-sm-auto,
+.sp-py-sm-auto 
+.sp-pl-sm-auto
+.sp-px-sm-auto 
+```
+
+
+### Padding Classes For {MD}  @media (min-width: 768px) {} screens  With Range Of 0-5
+
+```css
+.sp-p-md    (0-5) 
+.sp-pt-md   (0-5)
+.sp-py-md   (0-5)
+.sp-pr-md   (0-5)
+.sp-px-md   (0-5)
+.sp-pb-md   (0-5)
+.sp-py-md   (0-5)
+.sp-pl-md   (0-5)
+.sp-px-md   (0-5)
+```
+
+
+#### Padding AUTO Class For {MD}  @media (min-width: 768px) {} screens
+
+```css
+
+.sp-p-md-auto
+.sp-pt-md-auto
+.sp-py-md-auto
+.sp-pr-md-auto
+.sp-px-md-auto
+.sp-pb-md-auto,
+.sp-py-md-auto 
+.sp-pl-md-auto
+.sp-px-md-auto 
+
+```
+### Padding Classes For {LG}  @media (min-width: 992px) {} screens  With Range Of 0-5
+
+```css
+.sp-p-lg    (0-5) 
+.sp-pt-lg   (0-5)
+.sp-py-lg   (0-5)
+.sp-pr-lg   (0-5)
+.sp-px-lg   (0-5)
+.sp-pb-lg   (0-5)
+.sp-py-lg   (0-5)
+.sp-pl-lg   (0-5)
+.sp-px-lg   (0-5)
+```
+
+
+#### Padding AUTO Class For {LG}  @media (min-width: 992px) {} screens
+
+```css
+
+.sp-p-lg-auto
+.sp-pt-lg-auto
+.sp-py-lg-auto
+.sp-pr-lg-auto
+.sp-px-lg-auto
+.sp-pb-lg-auto,
+.sp-py-lg-auto 
+.sp-pl-lg-auto
+.sp-px-lg-auto 
+
+```
+
+### Padding Classes For {XL}  @media (min-width: 1200px) {} screens  With Range Of 0-5
+
+```css
+.sp-p-xl    (0-5) 
+.sp-pt-xl   (0-5)
+.sp-py-xl   (0-5)
+.sp-pr-xl   (0-5)
+.sp-px-xl   (0-5)
+.sp-pb-xl   (0-5)
+.sp-py-xl   (0-5)
+.sp-pl-xl   (0-5)
+.sp-px-xl   (0-5)
+```
+
+
+#### Padding AUTO Class For {XL}  @media (min-width: 1200px) {} screens
+
+```css
+
+.sp-p-xl-auto
+.sp-pt-xl-auto
+.sp-py-xl-auto
+.sp-pr-xl-auto
+.sp-px-xl-auto
+.sp-pb-xl-auto,
+.sp-py-xl-auto 
+.sp-pl-xl-auto
+.sp-px-xl-auto 
+
+```
 
 ## Notes
 
@@ -356,14 +475,13 @@ Width & Heights Sizes are defined in:
 ```css
 %
 ```
-While Margins and Paddings
-are defined in 
+While Margin and Padding sizes are defined in 
+
 ```csss
 rem
 ```
 But why rem?
-Our primary purpose of using rem ugit nits is  to ensure that whatever default font size a user has their browser set to, the layout will adjust to accommodate the size of text or elements within it.
-
+  Our primary purpose of using rem is to ensure that whatever default font size a user has their browser set to, the layout will adjust to accommodate the size of text or elements within it.
 
 If you want the the class on just one screen size, you need to set the other classes to default(0)
 
@@ -376,7 +494,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-
-1. [Oluwatobi Ishola](http://twitter.com/mroluwatobby)
-
-2. [Folorunso Adesanya](http://twitter.com/devfolorunso)
+Made with  💜 By  [Oluwatobi Ishola](http://twitter.com/mroluwatobby) &  [Folorunso Adesanya](http://twitter.com/devfolorunso)
