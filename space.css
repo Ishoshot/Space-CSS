@@ -1,9 +1,9 @@
 /* Official Space CSS
-By Oluwatobi Ishola and Folorunso Adesanya
+  By Oluwatobi Ishola and Folorunso Adesanya
+  v1.0.0 - 2020
 */
 
 /* TRADITIONAL WIDTH & HEIGHT STARTS*/
-
 .sp-w-20 {
   width: 20% !important;
 }
@@ -403,11 +403,9 @@ By Oluwatobi Ishola and Folorunso Adesanya
 .sp-mx-auto {
   margin-left: auto !important;
 }
-
 /* MARGIN STOPS */
 
 /*PADDING STARTS*/
-
 .sp-p-0 {
   padding: 0 !important;
 }
@@ -671,11 +669,9 @@ By Oluwatobi Ishola and Folorunso Adesanya
 .sp-px-10 {
   padding-left: 8rem !important;
 }
-
 /* PADDING STOPS */
 
 /* MEDIA QUERY FOR [SM] SCREENS START*/
-
 @media (min-width: 576px) {
   .sp-m-sm-0 {
     margin: 0 !important;
@@ -888,7 +884,6 @@ By Oluwatobi Ishola and Folorunso Adesanya
   }
 
   /*PADDING*/
-
   .sp-p-sm-0 {
     padding: 0 !important;
   }
@@ -1005,7 +1000,6 @@ By Oluwatobi Ishola and Folorunso Adesanya
   }
 
   /* NEGATIVE MARGIN */
-
   .sp-m-sm-n1 {
     margin: -0.25rem !important;
   }
@@ -1121,12 +1115,7 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: auto !important;
   }
 }
-
 /* MEDIA QUERY FOR [SM] SCREENS STOPS
-
-
-
-
 
 
 /* MARGIN NEGATIVE STARTS */
@@ -1395,11 +1384,9 @@ By Oluwatobi Ishola and Folorunso Adesanya
 .sp-px-auto {
   padding-left: auto !important;
 }
-
 /* PADDING  AUTO  STOPS */
 
 /* MEDIA QUERY FOR [MD] SCREENS*/
-
 @media (min-width: 768px) {
   /* MARGIN [MD] STARTS HERE */
   .sp-m-md-0 {
@@ -1877,7 +1864,6 @@ By Oluwatobi Ishola and Folorunso Adesanya
 /* MARGIN MD AUTO  STOPS HERE */
 
 /* MEDIA QUERY FOR [LG] SCREENS START*/
-
 @media (min-width: 992px) {
   .sp-m-lg-0 {
     margin: 0 !important;
@@ -2090,7 +2076,6 @@ By Oluwatobi Ishola and Folorunso Adesanya
   }
 
   /*PADDING*/
-
   .sp-p-lg-0 {
     padding: 0 !important;
   }
@@ -2207,7 +2192,6 @@ By Oluwatobi Ishola and Folorunso Adesanya
   }
 
   /* NEGATIVE MARGIN */
-
   .sp-m-lg-n1 {
     margin: -0.25rem !important;
   }
@@ -2323,11 +2307,11 @@ By Oluwatobi Ishola and Folorunso Adesanya
     margin-left: auto !important;
   }
 }
-
 /* MEDIA QUERY FOR [LG] SCREENS STOPS */
 
 @media (min-width: 1200px) {
   /* MARGIN [XL] STARTS HERE */
+
   .sp-m-xl-0 {
     margin: 0 !important;
   }
