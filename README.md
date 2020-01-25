@@ -46,6 +46,16 @@ This navigation is centered:
 
 All classes are composed of some simple parts.
 
+### 1.Property prefix
+
+```css
+m       =   margin
+___________________
+p   =    padding
+
+```
+All properties have !important as you should only add those classes, if you definitely want a specific behavior.
+
 ### 1. Property prefix
 
 ```css
@@ -127,7 +137,7 @@ are defined in
 rem
 ```
 But why rem?
-Our primary purpose of using rem units is  to ensure that whatever default font size a user has their browser set to, the layout will adjust to accommodate the size of text or elements within it.
+Our primary purpose of using rem ugit nits is  to ensure that whatever default font size a user has their browser set to, the layout will adjust to accommodate the size of text or elements within it.
 
 
 If you want the the class on just one screen size, you need to set the other classes to default(0)
