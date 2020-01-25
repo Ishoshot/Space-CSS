@@ -20,7 +20,7 @@ Space CSS is a highly responsive mordern trend spacing library for margins, padd
 
 
 ```npm
-npm install @space-css/space-css@1.0.0
+$ npm install @space-css/space-css@1.0.0
 ```
 
 These elements have no padding:
