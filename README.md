@@ -1,4 +1,4 @@
-## @space-css/space-css
+# @space-css/space-css
 
 ![NPM](https://img.shields.io/npm/l/@space-css/space-css) ![npm (scoped)](https://img.shields.io/npm/v/@space-css/space-css)
 
@@ -46,7 +46,7 @@ This navigation is centered:
 
 All classes are composed of some simple parts.
 
-# 1.Property prefix
+### 1.Property prefix
 
 ```css
 m       =   margin
