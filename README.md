@@ -102,16 +102,249 @@ mw: max-width
 
 ```
 
-#### Viewport lenght
-
+#### Viewport classes
 ```css
-
 .sp-min-vw-10 - min view width
 .sp-min-vh-100  - min view height
 .sp-vw-100 - view width
 .sp-vh-100 - view height
 
 ```
+
+### MARGIN CLASSES
+
+#### Margin Classes With Range Of 0-10
+
+```css
+.sp-m-    (0-10) 
+.sp-mt-   (0-10)
+.sp-my-   (0-10)
+.sp-mr-   (0-10)
+.sp-mx-   (0-10)
+.sp-mb-   (0-10)
+.sp-my-   (0-10)
+.sp-ml-   (0-10)
+.sp-mx-   (0-10)
+```
+
+#### Margin  NEGATIVE Classes With Range Of 0-10
+
+```css
+.sp-m-n    (0-10) 
+.sp-mt-n   (0-10)
+.sp-my-n   (0-10)
+.sp-mr-n   (0-10)
+.sp-mx-n   (0-10)
+.sp-mb-n   (0-10)
+.sp-my-n   (0-10)
+.sp-ml-n   (0-10)
+.sp-mx-n   (0-10)
+
+```
+
+#### Margin Auto
+
+```css
+
+.sp-m-auto
+.sp-mt-auto
+.sp-my-auto
+.sp-mr-auto
+.sp-mx-auto
+.sp-mb-auto,
+.sp-my-auto 
+.sp-ml-auto
+.sp-mx-auto 
+
+```
+
+### Margin Classes For {SM}  @media (min-width: 576px) {}   screens  With Range Of 0-10
+
+```css
+.sp-m-sm    (0-10) 
+.sp-mt-sm   (0-10)
+.sp-my-sm   (0-10)
+.sp-mr-sm   (0-10)
+.sp-mx-sm   (0-10)
+.sp-mb-sm   (0-10)
+.sp-my-sm   (0-10)
+.sp-ml-sm   (0-10)
+.sp-mx-sm   (0-10)
+```
+
+#### Margin  NEGATIVE Classes For {SM}  @media (min-width: 576px) {}   screens With Range Of 0-10
+
+```css
+.sp-m-sm-n    (0-10) 
+.sp-mt-sm-n   (0-10)
+.sp-my-sm-n   (0-10)
+.sp-mr-sm-n   (0-10)
+.sp-mx-sm-n   (0-10)
+.sp-mb-sm-n   (0-10)
+.sp-my-sm-n   (0-10)
+.sp-ml-sm-n   (0-10)
+.sp-mx-sm-n   (0-10)
+
+```
+
+#### Margin AUTO Class For {SM}  @media (min-width: 576px) {}   screens
+
+```css
+.sp-m-sm-auto
+.sp-mt-sm-auto
+.sp-my-sm-auto
+.sp-mr-sm-auto
+.sp-mx-sm-auto
+.sp-mb-sm-auto,
+.sp-my-sm-auto 
+.sp-ml-sm-auto
+.sp-mx-sm-auto 
+```
+
+
+### Margin Classes For {MD}  @media (min-width: 768px) {} screens  With Range Of 0-10
+
+```css
+.sp-m-md    (0-10) 
+.sp-mt-md   (0-10)
+.sp-my-md   (0-10)
+.sp-mr-md   (0-10)
+.sp-mx-md   (0-10)
+.sp-mb-md   (0-10)
+.sp-my-md   (0-10)
+.sp-ml-md   (0-10)
+.sp-mx-md   (0-10)
+```
+
+#### Margin  NEGATIVE Classes For {MD}  @media (min-width: 768px) {} screens With Range Of 0-10
+
+```css
+.sp-m-md-n    (0-10) 
+.sp-mt-md-n   (0-10)
+.sp-my-md-n   (0-10)
+.sp-mr-md-n   (0-10)
+.sp-mx-md-n   (0-10)
+.sp-mb-md-n   (0-10)
+.sp-my-md-n   (0-10)
+.sp-ml-md-n   (0-10)
+.sp-mx-md-n   (0-10)
+```
+
+#### Margin AUTO Class For {MD}  @media (min-width: 768px) {} screens
+
+```css
+.sp-m-md-auto
+.sp-mt-md-auto
+.sp-my-md-auto
+.sp-mr-md-auto
+.sp-mx-md-auto
+.sp-mb-md-auto,
+.sp-my-md-auto 
+.sp-ml-md-auto
+.sp-mx-md-auto 
+```
+
+### Margin Classes For {LG}  @media (min-width: 992px) {} screens  With Range Of 0-10
+
+```css
+.sp-m-lg    (0-10) 
+.sp-mt-lg   (0-10)
+.sp-my-lg   (0-10)
+.sp-mr-lg   (0-10)
+.sp-mx-lg   (0-10)
+.sp-mb-lg   (0-10)
+.sp-my-lg   (0-10)
+.sp-ml-lg   (0-10)
+.sp-mx-lg   (0-10)
+```
+
+#### Margin  NEGATIVE Classes For {LG}  @media (min-width: 992px) {} screens With Range Of 0-10
+
+```css
+.sp-m-lg-n    (0-10) 
+.sp-mt-lg-n   (0-10)
+.sp-my-lg-n   (0-10)
+.sp-mr-lg-n   (0-10)
+.sp-mx-lg-n   (0-10)
+.sp-mb-lg-n   (0-10)
+.sp-my-lg-n   (0-10)
+.sp-ml-lg-n   (0-10)
+.sp-mx-lg-n   (0-10)
+
+```
+
+#### Margin AUTO Class For {LG}  @media (min-width: 992px) {} screens
+
+```css
+.sp-m-lg-auto
+.sp-mt-lg-auto
+.sp-my-lg-auto
+.sp-mr-lg-auto
+.sp-mx-lg-auto
+.sp-mb-lg-auto,
+.sp-my-lg-auto 
+.sp-ml-lg-auto
+.sp-mx-lg-auto 
+```
+
+### Margin Classes For {XL}  @media (min-width: 1200px) {} screens  With Range Of 0-10
+
+```css
+.sp-m-xl    (0-10) 
+.sp-mt-xl   (0-10)
+.sp-my-xl   (0-10)
+.sp-mr-xl   (0-10)
+.sp-mx-xl   (0-10)
+.sp-mb-xl   (0-10)
+.sp-my-xl   (0-10)
+.sp-ml-xl   (0-10)
+.sp-mx-xl   (0-10)
+```
+
+#### Margin  NEGATIVE Classes For {XL}  @media (min-width: 1200px) {} screens With Range Of 0-10
+
+```css
+.sp-m-xl-n    (0-10) 
+.sp-mt-xl-n   (0-10)
+.sp-my-xl-n   (0-10)
+.sp-mr-xl-n   (0-10)
+.sp-mx-xl-n   (0-10)
+.sp-mb-xl-n   (0-10)
+.sp-my-xl-n   (0-10)
+.sp-ml-xl-n   (0-10)
+.sp-mx-xl-n   (0-10)
+
+```
+
+#### Margin AUTO Class For {XL}  @media (min-width: 1200px) {} screens
+
+```css
+.sp-m-xl-auto
+.sp-mt-xl-auto
+.sp-my-xl-auto
+.sp-mr-xl-auto
+.sp-mx-xl-auto
+.sp-mb-xl-auto,
+.sp-my-xl-auto 
+.sp-ml-xl-auto
+.sp-mx-xl-auto 
+```
+
+
+### Padding Classes 
+
+```css
+.sp-p-    (0-10)
+.sp-pt-   (0-10)
+.sp-py-   (0-10)
+.sp-pr-   (0-10)
+.sp-px-   (0-10)
+.sp-pb-   (0-10)
+.sp-py-   (0-10)
+.sp-pl-   (0-10)
+.sp-px-   (0-10)
+```
+
 
 
 ## Notes
