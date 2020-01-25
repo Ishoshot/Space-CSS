@@ -6,15 +6,16 @@ Space CSS is a highly responsive mordern trend spacing library for margins, padd
 
 ## Usage
 
+
+### CDN
+
 ```html
 <head>
   <!-- other stuff -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@space-css/space-css@1.1.0/space.css"
-  />
+  <link rel="stylesheet" href="https://unpkg.com/@space-css/space-css@1.1.0/space.css"
+/>
 </head>
-```
+
 
 ### Install with npm
 
