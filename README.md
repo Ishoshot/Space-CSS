@@ -56,13 +56,6 @@ p   =    padding
 ```
 All properties have !important as you should only add those classes, if you definitely want a specific behavior.
 
-### 1. Property prefix
-
-```css
-m   =   margin
-________________
-p   =    padding
-
 ```
 ### 2. Possible classes (normal syntax)
 Margin classes (they start with m) can have positive and negative values, padding classes (replace the leading m with a p) only have positive values.
